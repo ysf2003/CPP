@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\computer\source\repos\string\string\string.h(290,23): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  string.vcxproj -> C:\Users\computer\source\repos\string\Debug\string.exe
